@@ -1,6 +1,6 @@
-# SIBECO2018
+# SIBECOL 2019
 
-Repo para coordinar los workshops de ecoinf en el SIBECOL 2018 (http://www.congresosociedadibericaecologia2019.net/Call_for_workshops_465_p.htm)
+Repo para coordinar los workshops de ecoinf en el SIBECOL 2019 (http://www.congresosociedadibericaecologia2019.net/Call_for_workshops_465_p.htm)
 
 ## Workshops: 
 
